@@ -1,3 +1,8 @@
+body
+{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
 #Título
 {
     font-size: 60px;
@@ -31,10 +36,15 @@
 
 #Subtítulo
 {
+    margin-left: 150px;
+    margin-right: 150px;
     color:gray;
 }
 
-
+#porsche
+{
+    width: 500px;
+}
 
 
 
